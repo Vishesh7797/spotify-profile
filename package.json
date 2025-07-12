@@ -43,7 +43,7 @@
     "dotenv": "^8.1.0",
     "express": "~4.17.1",
     "querystring": "~0.2.0",
-    "request": "~2.88.0"
+    "request": "~2.88.2"
   },
   "devDependencies": {
     "@upstatement/eslint-config": "^0.4.2",
